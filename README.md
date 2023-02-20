@@ -1,5 +1,7 @@
 ### Wolt Preliminary Assignment for Engineering Positions 2023:
 
+Build a delivery fee calculator web app using React and TypeScript.
+
 Rules for calculating a delivery fee
 
 - If the cart value is less than 10€, a small order surcharge is added to the delivery price. The surcharge is the difference between the cart value and 10€. For example if the cart value is 8.90€, the surcharge will be 1.10€.
